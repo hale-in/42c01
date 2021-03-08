@@ -6,9 +6,10 @@
 /*   By: taeheeki <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/07 19:58:11 by taeheeki          #+#    #+#             */
-/*   Updated: 2021/03/08 16:51:10 by taeheeki         ###   ########.fr       */
+/*   Updated: 2021/03/08 20:31:30 by taeheeki         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include <unistd.h>
 
 void	ft_putstr(char *str)
